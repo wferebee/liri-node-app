@@ -1,6 +1,8 @@
 # Liri-Node-App
 
-Liri stands for Language Interpretation and Recognition Interface. This app works on the command line and takes parameters, givien by user input, and gives back the called for data. with this app, users are able to make four different commands which are
+Liri stands for Language Interpretation and Recognition Interface. 
+This app works on the command line and takes parameters, givien by user input, and gives back the called for data. 
+With this app, users are able to make four different commands which are
 
     *concert-this
 
@@ -14,16 +16,25 @@ Liri stands for Language Interpretation and Recognition Interface. This app work
     
 #Technologies Implemented
 
-   *Javascript
-   *Node.js
-   *API's
-   *Node Packages
-   -Node-Spotify-API
-   -Request
-   -Moment
-   -DotEnv
+   ###Javascript
+   
+   ###Node.js
+   
+   ###API's
+   
+   ###Node Packages
+   
+   *Node-Spotify-API
+   
+   *Request
+   
+   *Moment
+   
+   *DotEnv
+   
    *colors.js
-   *www.npmjs.com
+   
+   ###www.npmjs.com
 
 
 
