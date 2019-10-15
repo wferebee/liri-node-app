@@ -5,15 +5,19 @@ This app works on the command line and takes parameters, givien by user input,
 and gives back the called for data. 
 With this app, users are able to make four different commands which are
 
-    * concert-this
+ * concert-this
 
-    * spotify-this-song
+ * spotify-this-song
 
-    * movie-this
+ * movie-this
 
-    * do-what-it-says
+ * do-what-it-says
     
-    the first of which will give concert info about a given artist, the second, will give details about a specific song, the third wil       give details on a chosen movie, and the final command displays texts from a file in my repositiry and then takes that text and           searches for it.
+    the first of which will give concert info about a given artist,
+    the second, will give details about a specific song,
+    the third wil give details on a chosen movie,
+    and the final command displays texts from a file in my repositiry
+    and then takes that text and searches for it.
     
 # Technologies Implemented
 
