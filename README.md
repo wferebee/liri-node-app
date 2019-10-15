@@ -81,7 +81,7 @@ With this app, users are able to make four different commands which are
 
 
 
-### App displaying movie info / info whenno input is entered.
+### App displaying movie info / info when no input is entered.
 
 ![image](https://user-images.githubusercontent.com/53095806/66799892-f01c9200-eee0-11e9-91a3-ed077e927a4e.png)
 
