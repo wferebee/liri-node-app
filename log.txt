@@ -1,0 +1,1386 @@
+**********EVENT INFO*********
+0
+Name of the Venue: 丸善インテックアリーナ大阪（大阪市中央体育館）
+Venue Location: 大阪市
+Date of the Event: 2019-10-15T19:00:00
+************
+**********EVENT INFO*********
+1
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-10-18T20:00:00
+************
+**********EVENT INFO*********
+2
+Name of the Venue: ZENITH D'ORLEANS
+Venue Location: Orleans
+Date of the Event: 2019-10-19T20:00:00
+************
+**********EVENT INFO*********
+3
+Name of the Venue: Zenith Arena Lille
+Venue Location: Lille
+Date of the Event: 2019-10-20T20:00:00
+************
+**********EVENT INFO*********
+4
+Name of the Venue: Arkéa Arena
+Venue Location: Floirac
+Date of the Event: 2019-10-22T20:00:00
+************
+**********EVENT INFO*********
+5
+Name of the Venue: Zenith Nantes Metropole
+Venue Location: Saint-herblain
+Date of the Event: 2019-10-23T20:00:00
+************
+**********EVENT INFO*********
+6
+Name of the Venue: Halle Tony Garnier
+Venue Location: Lyon
+Date of the Event: 2019-10-25T20:00:00
+************
+**********EVENT INFO*********
+7
+Name of the Venue: Palais Nikaïa
+Venue Location: Nice
+Date of the Event: 2019-10-26T20:00:00
+************
+**********EVENT INFO*********
+8
+Name of the Venue: Le Summum
+Venue Location: Grenoble
+Date of the Event: 2019-10-28T20:00:00
+************
+**********EVENT INFO*********
+9
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Berlin
+Date of the Event: 2019-10-31T20:00:00
+************
+**********EVENT INFO*********
+10
+Name of the Venue: Daily's Place Amphitheater
+Venue Location: Jacksonville
+Date of the Event: 2019-11-08T20:00:00
+************
+**********EVENT INFO*********
+11
+Name of the Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Venue Location: Hollywood
+Date of the Event: 2019-11-09T20:00:00
+************
+**********EVENT INFO*********
+12
+Name of the Venue: Mark G Etess Arena at Hard Rock Hotel & Casino
+Venue Location: Atlantic City
+Date of the Event: 2019-11-15T20:00:00
+************
+**********EVENT INFO*********
+13
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-11-17T20:00:00
+************
+**********EVENT INFO*********
+14
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-22T20:00:00
+************
+**********EVENT INFO*********
+15
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-23T20:00:00
+************
+**********EVENT INFO*********
+16
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-27T20:00:00
+************
+**********EVENT INFO*********
+17
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-29T20:00:00
+************
+**********EVENT INFO*********
+18
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-30T20:00:00
+************
+**********EVENT INFO*********
+19
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-06-03T20:00:00
+************
+**********EVENT INFO*********
+20
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-06-05T20:00:00
+************
+**********EVENT INFO*********
+21
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-06-06T20:00:00
+************
+**********EVENT INFO*********
+22
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-15T20:00:00
+************
+**********EVENT INFO*********
+23
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-19T20:00:00
+************
+**********EVENT INFO*********
+24
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-21T20:00:00
+************
+**********EVENT INFO*********
+25
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-22T20:00:00
+************
+**********EVENT INFO*********
+26
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-26T20:00:00
+************
+**********EVENT INFO*********
+27
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-28T20:00:00
+************
+**********EVENT INFO*********
+28
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-29T20:00:00
+************
+**********EVENT INFO*********
+29
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-09-02T20:00:00
+************
+**********SONG INFO*********
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=7721e84c1a834f65b39a2eb8944b4067
+album: 25
+artist(s): Adele
+************
+**********SONG INFO*********
+1
+song name: Hello?
+preview song: null
+album: diary 001
+artist(s): Clairo
+************
+**********SONG INFO*********
+2
+song name: Hello Beautiful
+preview song: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello Beautiful
+artist(s): Noah Schnacky
+************
+**********SONG INFO*********
+3
+song name: Hello My Old Heart
+preview song: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Oh Hellos EP
+artist(s): The Oh Hellos
+************
+**********SONG INFO*********
+4
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): Adele
+************
+**********SONG INFO*********
+5
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=7721e84c1a834f65b39a2eb8944b4067
+album: 2014 Forest Hills Drive
+artist(s): J. Cole
+************
+**********SONG INFO*********
+6
+song name: Hello
+preview song: null
+album: Can't Slow Down
+artist(s): Lionel Richie
+************
+**********SONG INFO*********
+7
+song name: You Can't Hurry Love - 2016 Remaster
+preview song: https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello, I Must Be Going! (Deluxe Edition)
+artist(s): Phil Collins
+************
+**********SONG INFO*********
+8
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a19c03080fead4da785057b0dc382d3b0117888?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): 1takejay
+************
+**********SONG INFO*********
+9
+song name: Hello, Goodbye - Remastered 2009
+preview song: null
+album: Magical Mystery Tour (Remastered)
+artist(s): The Beatles
+************
+**********SONG INFO*********
+10
+song name: Intergalactic - Remastered
+preview song: null
+album: Hello Nasty (Deluxe Version/Remastered 2009)
+artist(s): Beastie Boys
+************
+**********SONG INFO*********
+11
+song name: Ready or Not
+preview song: null
+album: Hello My Name Is...
+artist(s): Bridgit Mendler
+************
+**********SONG INFO*********
+12
+song name: Hello Darlin'
+preview song: null
+album: Hello Darlin'
+artist(s): Conway Twitty
+************
+**********SONG INFO*********
+13
+song name: Hello!
+preview song: https://p.scdn.co/mp3-preview/6048fb830712558ff5f966949874e9fb4ff6bc0b?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Book Of Mormon (Original Broadway Cast Recording)
+artist(s): Andrew Rannells
+************
+**********SONG INFO*********
+14
+song name: Hello, My Name Is
+preview song: null
+album: Into The Light
+artist(s): Matthew West
+************
+**********SONG INFO*********
+15
+song name: Brokenhearted
+preview song: https://p.scdn.co/mp3-preview/78d71b66c2fe09fe1ff646b1175da554852db8bb?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): Karmin
+************
+**********SONG INFO*********
+16
+song name: Hello It's Me
+preview song: https://p.scdn.co/mp3-preview/8c434a03b4f175af93b61cf85162f09422b8e3be?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Something/Anything?
+artist(s): Todd Rundgren
+************
+**********SONG INFO*********
+17
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a7358499d83ba55d6fc961576ace6a8aeb96180?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): OMFG
+************
+**********SONG INFO*********
+18
+song name: Hello Bitches
+preview song: https://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello Bitches
+artist(s): CL
+************
+**********SONG INFO*********
+19
+song name: Hello
+preview song: null
+album: Greatest Hits
+artist(s): Ice Cube
+************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Harry Styles
+artist(s): Harry Styles
+************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Sign of the Times
+artist(s): Harry Styles
+************
+**********SONG INFO*********
+7
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Divine Feminine
+artist(s): Mac Miller
+************
+**********SONG INFO*********
+8
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=7721e84c1a834f65b39a2eb8944b4067
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+************
+**********SONG INFO*********
+9
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Lost Boy
+artist(s): YBN Cordae
+************
+**********SONG INFO*********
+10
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+************
+**********SONG INFO*********
+11
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Beach House 3
+artist(s): Ty Dolla $ign
+************
+**********SONG INFO*********
+12
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=7721e84c1a834f65b39a2eb8944b4067
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+************
+**********SONG INFO*********
+18
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Beach House 3
+artist(s): Ty Dolla $ign
+************
+**********MOVIE INFO*********
+Title: Pi
+Release Year: 1998
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: 88%
+Country of Production: USA
+Language: English, Hebrew
+Plot: A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
+Actors: Sean Gullette, Mark Margolis, Ben Shenkman, Pamela Hart
+************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+************
+**********SONG INFO*********
+0
+song name: Here I Go Again 87 - 2018 Remaster
+preview song: https://p.scdn.co/mp3-preview/01924384044bf7eb9d05a7894bff650f471a1631?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (2018 Remaster)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+1
+song name: Here I Go Again
+preview song: null
+album: Saints & Sinners
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+2
+song name: Here I go again
+preview song: https://p.scdn.co/mp3-preview/47fa312a3af4d4425adfcc922249a7aef5b0da49?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Mica Goldberg
+artist(s): Mica Goldberg
+************
+**********SONG INFO*********
+3
+song name: Here I Go Again - Radio Mix
+preview song: https://p.scdn.co/mp3-preview/bbfda7d45c816f987caba6e09127fd2be290a4fd?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (30th Anniversary Super Deluxe Edition)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+4
+song name: Here I go again
+preview song: https://p.scdn.co/mp3-preview/2b3d6fabe75884edc3e1744413b340e9a335ef2b?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Harpathon
+artist(s): Harpathon
+************
+**********SONG INFO*********
+5
+song name: Here I Go Again - Live At Donington 1990, 2019 Remaster
+preview song: https://p.scdn.co/mp3-preview/e3d48943c17adbbb90f6de6cc0b65738c8f69b5e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Slip Of The Tongue (Super Deluxe Edition, 2019 Remaster)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+6
+song name: Here I Go Again
+preview song: null
+album: Music Of The Sun
+artist(s): Rihanna
+************
+**********SONG INFO*********
+7
+song name: Here I Go Again 87 - 2017 Remaster
+preview song: https://p.scdn.co/mp3-preview/cf5e7d1ae4471ab49f6c74e30f6228bb383a2343?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (30th Anniversary Super Deluxe Edition)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+8
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/51f259253b24e91fe051ce207f4d66f163c7a51d?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Casting Crowns
+artist(s): Casting Crowns
+************
+**********SONG INFO*********
+9
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/33baa62e6def39f38f011ada9b5417f8588bd640?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Rock of Ages (Original Motion Picture Soundtrack)
+artist(s): Diego Boneta
+************
+**********SONG INFO*********
+10
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/c1890818fe37d1123e7ec96b982e3993716614b6?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Chillin'
+artist(s): Force M.D.'s
+************
+**********SONG INFO*********
+11
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/751a71451f148c88c65d7851802cf669914e3cc4?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Forever: Timeless R&B Classics
+artist(s): Glenn Jones
+************
+**********SONG INFO*********
+12
+song name: I've Been Searchin' (Nobody Like You)
+preview song: https://p.scdn.co/mp3-preview/b90f2f715f327ee7227f0ac5023199f2af543b54?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Glenn Jones
+************
+**********SONG INFO*********
+13
+song name: Here I Go Again
+preview song: null
+album: Last Man Standing
+artist(s): E-Type
+************
+**********SONG INFO*********
+14
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/1750bd442371d326c7c2516298783bd03762751e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Northern Soul
+artist(s): Archie Bell & The Drells
+************
+**********SONG INFO*********
+15
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/343f528109c00bf65e854dc78983a0ae55a00fdd?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Rock of Ages (Original Broadway Cast Recording)
+artist(s): Rock Of Ages Full Company
+************
+**********SONG INFO*********
+16
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/da30c885da619bf3c40abe92d30ab9a0c4c62dc9?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Steve Acho
+************
+**********SONG INFO*********
+17
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/a5910af19f00a427ca541999bfd8d3f9118ae6f3?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Drew Amaranth
+************
+**********SONG INFO*********
+18
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/c8d9867126c416a9017cb166e0ee212fad13f6a2?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Missing
+artist(s): Gabe Garcia
+************
+**********SONG INFO*********
+19
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/9ef794e89818f55f968804cdc31de2709c6ec3c0?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Glenn Jones
+************
+**********SONG INFO*********
+0
+song name: Here I Go Again 87 - 2018 Remaster
+preview song: https://p.scdn.co/mp3-preview/01924384044bf7eb9d05a7894bff650f471a1631?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (2018 Remaster)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+1
+song name: Here I Go Again
+preview song: null
+album: Saints & Sinners
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+2
+song name: Here I go again
+preview song: https://p.scdn.co/mp3-preview/47fa312a3af4d4425adfcc922249a7aef5b0da49?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Mica Goldberg
+artist(s): Mica Goldberg
+************
+**********SONG INFO*********
+3
+song name: Here I Go Again - Radio Mix
+preview song: https://p.scdn.co/mp3-preview/bbfda7d45c816f987caba6e09127fd2be290a4fd?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (30th Anniversary Super Deluxe Edition)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+4
+song name: Here I go again
+preview song: https://p.scdn.co/mp3-preview/2b3d6fabe75884edc3e1744413b340e9a335ef2b?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Harpathon
+artist(s): Harpathon
+************
+**********SONG INFO*********
+5
+song name: Here I Go Again - Live At Donington 1990, 2019 Remaster
+preview song: https://p.scdn.co/mp3-preview/e3d48943c17adbbb90f6de6cc0b65738c8f69b5e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Slip Of The Tongue (Super Deluxe Edition, 2019 Remaster)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+6
+song name: Here I Go Again
+preview song: null
+album: Music Of The Sun
+artist(s): Rihanna
+************
+**********SONG INFO*********
+7
+song name: Here I Go Again 87 - 2017 Remaster
+preview song: https://p.scdn.co/mp3-preview/cf5e7d1ae4471ab49f6c74e30f6228bb383a2343?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (30th Anniversary Super Deluxe Edition)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+8
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/51f259253b24e91fe051ce207f4d66f163c7a51d?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Casting Crowns
+artist(s): Casting Crowns
+************
+**********SONG INFO*********
+9
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/33baa62e6def39f38f011ada9b5417f8588bd640?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Rock of Ages (Original Motion Picture Soundtrack)
+artist(s): Diego Boneta
+************
+**********SONG INFO*********
+10
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/c1890818fe37d1123e7ec96b982e3993716614b6?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Chillin'
+artist(s): Force M.D.'s
+************
+**********SONG INFO*********
+11
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/751a71451f148c88c65d7851802cf669914e3cc4?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Forever: Timeless R&B Classics
+artist(s): Glenn Jones
+************
+**********SONG INFO*********
+12
+song name: I've Been Searchin' (Nobody Like You)
+preview song: https://p.scdn.co/mp3-preview/b90f2f715f327ee7227f0ac5023199f2af543b54?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Glenn Jones
+************
+**********SONG INFO*********
+13
+song name: Here I Go Again
+preview song: null
+album: Last Man Standing
+artist(s): E-Type
+************
+**********SONG INFO*********
+14
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/1750bd442371d326c7c2516298783bd03762751e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Northern Soul
+artist(s): Archie Bell & The Drells
+************
+**********SONG INFO*********
+15
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/343f528109c00bf65e854dc78983a0ae55a00fdd?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Rock of Ages (Original Broadway Cast Recording)
+artist(s): Rock Of Ages Full Company
+************
+**********SONG INFO*********
+16
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/da30c885da619bf3c40abe92d30ab9a0c4c62dc9?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Steve Acho
+************
+**********SONG INFO*********
+17
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/a5910af19f00a427ca541999bfd8d3f9118ae6f3?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Drew Amaranth
+************
+**********SONG INFO*********
+18
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/c8d9867126c416a9017cb166e0ee212fad13f6a2?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Missing
+artist(s): Gabe Garcia
+************
+**********SONG INFO*********
+19
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/9ef794e89818f55f968804cdc31de2709c6ec3c0?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Glenn Jones
+************
+**********EVENT INFO*********
+0
+Name of the Venue: 丸善インテックアリーナ大阪（大阪市中央体育館）
+Venue Location: 大阪市
+Date of the Event: 2019-10-15T19:00:00
+************
+**********EVENT INFO*********
+1
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-10-18T20:00:00
+************
+**********EVENT INFO*********
+2
+Name of the Venue: ZENITH D'ORLEANS
+Venue Location: Orleans
+Date of the Event: 2019-10-19T20:00:00
+************
+**********EVENT INFO*********
+3
+Name of the Venue: Zenith Arena Lille
+Venue Location: Lille
+Date of the Event: 2019-10-20T20:00:00
+************
+**********EVENT INFO*********
+4
+Name of the Venue: Arkéa Arena
+Venue Location: Floirac
+Date of the Event: 2019-10-22T20:00:00
+************
+**********EVENT INFO*********
+5
+Name of the Venue: Zenith Nantes Metropole
+Venue Location: Saint-herblain
+Date of the Event: 2019-10-23T20:00:00
+************
+**********EVENT INFO*********
+6
+Name of the Venue: Halle Tony Garnier
+Venue Location: Lyon
+Date of the Event: 2019-10-25T20:00:00
+************
+**********EVENT INFO*********
+7
+Name of the Venue: Palais Nikaïa
+Venue Location: Nice
+Date of the Event: 2019-10-26T20:00:00
+************
+**********EVENT INFO*********
+8
+Name of the Venue: Le Summum
+Venue Location: Grenoble
+Date of the Event: 2019-10-28T20:00:00
+************
+**********EVENT INFO*********
+9
+Name of the Venue: Mercedes-Benz Arena
+Venue Location: Berlin
+Date of the Event: 2019-10-31T20:00:00
+************
+**********EVENT INFO*********
+10
+Name of the Venue: Daily's Place Amphitheater
+Venue Location: Jacksonville
+Date of the Event: 2019-11-08T20:00:00
+************
+**********EVENT INFO*********
+11
+Name of the Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Venue Location: Hollywood
+Date of the Event: 2019-11-09T20:00:00
+************
+**********EVENT INFO*********
+12
+Name of the Venue: Mark G Etess Arena at Hard Rock Hotel & Casino
+Venue Location: Atlantic City
+Date of the Event: 2019-11-15T20:00:00
+************
+**********EVENT INFO*********
+13
+Name of the Venue: The Met Philadelphia
+Venue Location: Philadelphia
+Date of the Event: 2019-11-17T20:00:00
+************
+**********EVENT INFO*********
+14
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-22T20:00:00
+************
+**********EVENT INFO*********
+15
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-23T20:00:00
+************
+**********EVENT INFO*********
+16
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-27T20:00:00
+************
+**********EVENT INFO*********
+17
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-29T20:00:00
+************
+**********EVENT INFO*********
+18
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-05-30T20:00:00
+************
+**********EVENT INFO*********
+19
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-06-03T20:00:00
+************
+**********EVENT INFO*********
+20
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-06-05T20:00:00
+************
+**********EVENT INFO*********
+21
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-06-06T20:00:00
+************
+**********EVENT INFO*********
+22
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-15T20:00:00
+************
+**********EVENT INFO*********
+23
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-19T20:00:00
+************
+**********EVENT INFO*********
+24
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-21T20:00:00
+************
+**********EVENT INFO*********
+25
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-22T20:00:00
+************
+**********EVENT INFO*********
+26
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-26T20:00:00
+************
+**********EVENT INFO*********
+27
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-28T20:00:00
+************
+**********EVENT INFO*********
+28
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-08-29T20:00:00
+************
+**********EVENT INFO*********
+29
+Name of the Venue: THE COLOSSEUM AT CAESARS PALACE
+Venue Location: Las Vegas
+Date of the Event: 2020-09-02T20:00:00
+************
+**********SONG INFO*********
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=7721e84c1a834f65b39a2eb8944b4067
+album: 25
+artist(s): Adele
+************
+**********SONG INFO*********
+1
+song name: Hello?
+preview song: null
+album: diary 001
+artist(s): Clairo
+************
+**********SONG INFO*********
+2
+song name: Hello Beautiful
+preview song: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello Beautiful
+artist(s): Noah Schnacky
+************
+**********SONG INFO*********
+3
+song name: Hello My Old Heart
+preview song: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Oh Hellos EP
+artist(s): The Oh Hellos
+************
+**********SONG INFO*********
+4
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): Adele
+************
+**********SONG INFO*********
+5
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=7721e84c1a834f65b39a2eb8944b4067
+album: 2014 Forest Hills Drive
+artist(s): J. Cole
+************
+**********SONG INFO*********
+6
+song name: Hello
+preview song: null
+album: Can't Slow Down
+artist(s): Lionel Richie
+************
+**********SONG INFO*********
+7
+song name: You Can't Hurry Love - 2016 Remaster
+preview song: https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello, I Must Be Going! (Deluxe Edition)
+artist(s): Phil Collins
+************
+**********SONG INFO*********
+8
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a19c03080fead4da785057b0dc382d3b0117888?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): 1takejay
+************
+**********SONG INFO*********
+9
+song name: Hello, Goodbye - Remastered 2009
+preview song: null
+album: Magical Mystery Tour (Remastered)
+artist(s): The Beatles
+************
+**********SONG INFO*********
+10
+song name: Intergalactic - Remastered
+preview song: null
+album: Hello Nasty (Deluxe Version/Remastered 2009)
+artist(s): Beastie Boys
+************
+**********SONG INFO*********
+11
+song name: Ready or Not
+preview song: null
+album: Hello My Name Is...
+artist(s): Bridgit Mendler
+************
+**********SONG INFO*********
+12
+song name: Hello Darlin'
+preview song: null
+album: Hello Darlin'
+artist(s): Conway Twitty
+************
+**********SONG INFO*********
+13
+song name: Hello!
+preview song: https://p.scdn.co/mp3-preview/6048fb830712558ff5f966949874e9fb4ff6bc0b?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Book Of Mormon (Original Broadway Cast Recording)
+artist(s): Andrew Rannells
+************
+**********SONG INFO*********
+14
+song name: Hello, My Name Is
+preview song: null
+album: Into The Light
+artist(s): Matthew West
+************
+**********SONG INFO*********
+15
+song name: Brokenhearted
+preview song: https://p.scdn.co/mp3-preview/78d71b66c2fe09fe1ff646b1175da554852db8bb?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): Karmin
+************
+**********SONG INFO*********
+16
+song name: Hello It's Me
+preview song: https://p.scdn.co/mp3-preview/8c434a03b4f175af93b61cf85162f09422b8e3be?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Something/Anything?
+artist(s): Todd Rundgren
+************
+**********SONG INFO*********
+17
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a7358499d83ba55d6fc961576ace6a8aeb96180?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello
+artist(s): OMFG
+************
+**********SONG INFO*********
+18
+song name: Hello Bitches
+preview song: https://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hello Bitches
+artist(s): CL
+************
+**********SONG INFO*********
+19
+song name: Hello
+preview song: null
+album: Greatest Hits
+artist(s): Ice Cube
+************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Harry Styles
+artist(s): Harry Styles
+************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+************
+**********SONG INFO*********
+3
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+************
+**********SONG INFO*********
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Sign of the Times
+artist(s): Harry Styles
+************
+**********SONG INFO*********
+7
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Divine Feminine
+artist(s): Mac Miller
+************
+**********SONG INFO*********
+8
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=7721e84c1a834f65b39a2eb8944b4067
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+************
+**********SONG INFO*********
+9
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Lost Boy
+artist(s): YBN Cordae
+************
+**********SONG INFO*********
+10
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+************
+**********SONG INFO*********
+11
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Beach House 3
+artist(s): Ty Dolla $ign
+************
+**********SONG INFO*********
+12
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+************
+**********SONG INFO*********
+14
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+************
+**********SONG INFO*********
+15
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+************
+**********SONG INFO*********
+16
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=7721e84c1a834f65b39a2eb8944b4067
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+************
+**********SONG INFO*********
+18
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=7721e84c1a834f65b39a2eb8944b4067
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+************
+**********SONG INFO*********
+19
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Beach House 3
+artist(s): Ty Dolla $ign
+************
+**********MOVIE INFO*********
+Title: Pi
+Release Year: 1998
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: 88%
+Country of Production: USA
+Language: English, Hebrew
+Plot: A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
+Actors: Sean Gullette, Mark Margolis, Ben Shenkman, Pamela Hart
+************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+************
+**********SONG INFO*********
+0
+song name: Here I Go Again 87 - 2018 Remaster
+preview song: https://p.scdn.co/mp3-preview/01924384044bf7eb9d05a7894bff650f471a1631?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (2018 Remaster)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+1
+song name: Here I Go Again
+preview song: null
+album: Saints & Sinners
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+2
+song name: Here I go again
+preview song: https://p.scdn.co/mp3-preview/47fa312a3af4d4425adfcc922249a7aef5b0da49?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Mica Goldberg
+artist(s): Mica Goldberg
+************
+**********SONG INFO*********
+3
+song name: Here I Go Again - Radio Mix
+preview song: https://p.scdn.co/mp3-preview/bbfda7d45c816f987caba6e09127fd2be290a4fd?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (30th Anniversary Super Deluxe Edition)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+4
+song name: Here I go again
+preview song: https://p.scdn.co/mp3-preview/2b3d6fabe75884edc3e1744413b340e9a335ef2b?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Harpathon
+artist(s): Harpathon
+************
+**********SONG INFO*********
+5
+song name: Here I Go Again - Live At Donington 1990, 2019 Remaster
+preview song: https://p.scdn.co/mp3-preview/e3d48943c17adbbb90f6de6cc0b65738c8f69b5e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Slip Of The Tongue (Super Deluxe Edition, 2019 Remaster)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+6
+song name: Here I Go Again
+preview song: null
+album: Music Of The Sun
+artist(s): Rihanna
+************
+**********SONG INFO*********
+7
+song name: Here I Go Again 87 - 2017 Remaster
+preview song: https://p.scdn.co/mp3-preview/cf5e7d1ae4471ab49f6c74e30f6228bb383a2343?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Whitesnake (30th Anniversary Super Deluxe Edition)
+artist(s): Whitesnake
+************
+**********SONG INFO*********
+8
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/51f259253b24e91fe051ce207f4d66f163c7a51d?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Casting Crowns
+artist(s): Casting Crowns
+************
+**********SONG INFO*********
+9
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/33baa62e6def39f38f011ada9b5417f8588bd640?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Rock of Ages (Original Motion Picture Soundtrack)
+artist(s): Diego Boneta
+************
+**********SONG INFO*********
+10
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/c1890818fe37d1123e7ec96b982e3993716614b6?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Chillin'
+artist(s): Force M.D.'s
+************
+**********SONG INFO*********
+11
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/751a71451f148c88c65d7851802cf669914e3cc4?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Forever: Timeless R&B Classics
+artist(s): Glenn Jones
+************
+**********SONG INFO*********
+12
+song name: I've Been Searchin' (Nobody Like You)
+preview song: https://p.scdn.co/mp3-preview/b90f2f715f327ee7227f0ac5023199f2af543b54?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Glenn Jones
+************
+**********SONG INFO*********
+13
+song name: Here I Go Again
+preview song: null
+album: Last Man Standing
+artist(s): E-Type
+************
+**********SONG INFO*********
+14
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/1750bd442371d326c7c2516298783bd03762751e?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Northern Soul
+artist(s): Archie Bell & The Drells
+************
+**********SONG INFO*********
+15
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/343f528109c00bf65e854dc78983a0ae55a00fdd?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Rock of Ages (Original Broadway Cast Recording)
+artist(s): Rock Of Ages Full Company
+************
+**********SONG INFO*********
+16
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/da30c885da619bf3c40abe92d30ab9a0c4c62dc9?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Steve Acho
+************
+**********SONG INFO*********
+17
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/a5910af19f00a427ca541999bfd8d3f9118ae6f3?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Drew Amaranth
+************
+**********SONG INFO*********
+18
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/c8d9867126c416a9017cb166e0ee212fad13f6a2?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Missing
+artist(s): Gabe Garcia
+************
+**********SONG INFO*********
+19
+song name: Here I Go Again
+preview song: https://p.scdn.co/mp3-preview/9ef794e89818f55f968804cdc31de2709c6ec3c0?cid=7721e84c1a834f65b39a2eb8944b4067
+album: Here I Go Again
+artist(s): Glenn Jones
+************
