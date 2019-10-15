@@ -1,6 +1,23 @@
-# liri-node-app
+# Liri-Node-App
+
+Liri stands for Language Interpretation and Recognition Interface. This app works on the command line and takes parameters, givien by user input, and gives back the called for data. with this app, users are able to make four different commands which are
+
+    *concert-this
+
+    *spotify-this-song
+
+    *movie-this
+
+    *do-what-it-says
 
 
+
+
+
+
+
+
+###Watch a video of me displaying the app!
 https://drive.google.com/file/d/15rzzdduQtvU6wJC9aKgmvChf13O-LnKQ/view
 
 
