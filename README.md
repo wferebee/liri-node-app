@@ -13,11 +13,11 @@ With this app, users are able to make four different commands which are
 
  * do-what-it-says
     
-    the first of which will give concert info about a given artist,
-    the second, will give details about a specific song,
-    the third wil give details on a chosen movie,
-    and the final command displays texts from a file in my repositiry
-    and then takes that text and searches for it.
+   - the first of which will give concert info about a given artist,
+   - the second, will give details about a specific song,
+   - the third wil give details on a chosen movie,
+   - and the final command displays texts from a file in my repositiry
+   - and then takes that text and searches for it.
     
 # Technologies Implemented
 
